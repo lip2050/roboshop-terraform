@@ -12,5 +12,5 @@ components = {
   shipping = {}
   rabbitmq = {}
   payment = {}
-  dispatch = {}
+  //dispatch = {}
 }
