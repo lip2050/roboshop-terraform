@@ -34,3 +34,11 @@ components = {
   }
   //dispatch = {}
 }
+
+tags = {
+  company_name = "XYZ Tech"
+  business = "ecommerce"
+  business = "retail"
+  cost_center = "322"
+  project_name = "roboshop"
+}
